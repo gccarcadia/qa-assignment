@@ -52,7 +52,3 @@ Please carefully read what you need to do and what not to do. The assignment con
 ## Backend only tasks
 
 - [ ] Cover 2 [requirements](docs/requirements.md) from the specifications with **API tests**. Choose the ones you find most important. Pick a testing framework you feel most comfortable with;
-
-# Conditions
-- If a completion date has not been explicitly agreed with you, the deadline of the assignment is in one week since you received it;
-- Please do both parts of the assignment, unless otherwise stated;
