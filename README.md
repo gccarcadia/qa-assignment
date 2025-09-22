@@ -36,9 +36,11 @@ NOTE: The page will reload if you make edits to the app codebase.
 
 # Assignment
 
-======================================
+============================================================================
 
 IMPORTANT: Please create a new repository containing the automation framweork and the tests !!!
+
+============================================================================
 
 
 The assignment has been devised with manual and automation testers in mind in order to assess your testing knowledge, attention to details and how you architecture the code.
