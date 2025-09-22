@@ -35,7 +35,9 @@ NOTE: The page will reload if you make edits to the app codebase.
 
 
 # Assignment
-==========================================================
+
+======================================
+
 IMPORTANT: Please create a new repository containing the automation framweork and the tests !!!
 
 
